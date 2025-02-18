@@ -1,5 +1,5 @@
-import 'package:builder_pattern/address.dart' as adress;
-import 'package:builder_pattern/address_builder.dart';
+import 'package:builder_patterns/address.dart' as adress;
+import 'package:builder_patterns/address_builder.dart';
 
 void main(List<String> arguments) {
   final address = adress.Address.builder()
